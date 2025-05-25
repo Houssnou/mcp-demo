@@ -10,7 +10,8 @@ obj/
 *.dll
 
 # Ignore VS Code settings
-.vscode/
+#.vscode/
+
 
 # Ignore other temporary files
 *.log
